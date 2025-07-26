@@ -1,0 +1,2724 @@
+[
+  {
+    "id": "U1-001",
+    "japanese": "おはよう",
+    "romaji": "ohayou",
+    "english": "Good morning",
+    "type": "Greeting",
+    "category": "Easy",
+    "notes": "Add ございます for formality",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "mc",
+      "fitb",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "morning",
+      "easy",
+      "formal",
+      "greeting"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "easy",
+      "greeting"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____、みなさん。",
+        "template_romaji": "____",
+        "answer_kana": "おはよう",
+        "answer_romaji": "ohayou"
+      }
+    ],
+    "example": {
+      "kana": "おはよう、みなさん。",
+      "romaji": "ohayou"
+    },
+    "original_mc_question": "minasan.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-002",
+    "japanese": "おはようございます",
+    "romaji": "ohayou gozaimasu",
+    "english": "Good morning (formal)",
+    "type": "Greeting",
+    "category": "[audio]",
+    "notes": "Use with teachers/seniors",
+    "difficulty": "Greetings",
+    "game_types": [
+      "flashcard",
+      "mc",
+      "fitb",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "morning",
+      "formal",
+      "greeting",
+      "[audio]",
+      "classroom"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "[audio]",
+      "greeting"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "3",
+        "template_romaji": "おはよう（__________）",
+        "answer_kana": "ohayou (__________)",
+        "answer_romaji": "ございます"
+      },
+      {
+        "template_kana": "____、せんせい。",
+        "template_romaji": "____",
+        "answer_kana": "おはようございます",
+        "answer_romaji": "ohayou gozaimasu"
+      }
+    ],
+    "example": {
+      "kana": "おはようございます、せんせい。",
+      "romaji": "ohayou gozaimasu"
+    },
+    "original_mc_question": "sensei.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-003",
+    "japanese": "さん",
+    "romaji": "san",
+    "english": "Mr./Ms.",
+    "type": "Honorific",
+    "category": "Easy",
+    "notes": "Safe, general honorific",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "mc",
+      "fitb",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "easy",
+      "honorific"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "easy",
+      "honorific"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "たなか____",
+        "template_romaji": "tanaka ____",
+        "answer_kana": "さん",
+        "answer_romaji": "san"
+      }
+    ],
+    "example": {
+      "kana": "たなかさん",
+      "romaji": "tanaka san"
+    },
+    "original_mc_question": "Which honorific is safest to use?",
+    "original_mc_correct_option": 3
+  },
+  {
+    "id": "U1-004",
+    "japanese": "しずかにして",
+    "romaji": "shizuka ni shite",
+    "english": "Please be quiet",
+    "type": "Instruction",
+    "category": "[audio]",
+    "notes": "Used by teachers",
+    "difficulty": "Instruction",
+    "game_types": [
+      "flashcard",
+      "mc",
+      "fitb",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "polite_request",
+      "instruction",
+      "[audio]",
+      "classroom"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "instruction",
+      "[audio]"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "2",
+        "template_romaji": "しずかに__________。",
+        "answer_kana": "shizuka ni ________.",
+        "answer_romaji": "して"
+      },
+      {
+        "template_kana": "____、みなさん。",
+        "template_romaji": "____",
+        "answer_kana": "しずかにして",
+        "answer_romaji": "shizuka ni shite"
+      }
+    ],
+    "example": {
+      "kana": "しずかにして、みなさん。",
+      "romaji": "shizuka ni shite"
+    },
+    "original_mc_question": "minasan.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-005",
+    "japanese": "ありがとう",
+    "romaji": "arigatou",
+    "english": "Thank you",
+    "type": "Polite Expression",
+    "category": "Polite Expression",
+    "notes": "Informal",
+    "difficulty": "[audio]",
+    "game_types": [
+      "flashcard",
+      "mc",
+      "fitb",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "polite expression",
+      "informal",
+      "formal",
+      "gratitude"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "polite expression"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "2",
+        "template_romaji": "ありがとう、__________。",
+        "answer_kana": "arigatou",
+        "answer_romaji": "________."
+      },
+      {
+        "template_kana": "____、せんせい。",
+        "template_romaji": "____",
+        "answer_kana": "ありがとう",
+        "answer_romaji": "arigatou"
+      }
+    ],
+    "example": {
+      "kana": "ありがとう、せんせい。",
+      "romaji": "arigatou"
+    },
+    "original_mc_question": "sensei.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-006",
+    "japanese": "たってください",
+    "romaji": "tatte kudasai",
+    "english": "Please stand up",
+    "type": "Instruction",
+    "category": "[audio]",
+    "notes": "",
+    "difficulty": "Instruction",
+    "game_types": [
+      "flashcard",
+      "mc",
+      "fitb",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "polite_request",
+      "instruction",
+      "[audio]"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "instruction",
+      "[audio]"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "3",
+        "template_romaji": "たって__________。",
+        "answer_kana": "tatte ________.",
+        "answer_romaji": "ください"
+      },
+      {
+        "template_kana": "____、みなさん。",
+        "template_romaji": "____",
+        "answer_kana": "たってください",
+        "answer_romaji": "tatte kudasai"
+      }
+    ],
+    "example": {
+      "kana": "たってください、みなさん。",
+      "romaji": "tatte kudasai"
+    },
+    "original_mc_question": "minasan.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-007",
+    "japanese": "こんにちは",
+    "romaji": "konnichiwa",
+    "english": "Hello/Good afternoon",
+    "type": "Greeting",
+    "category": "[audio]",
+    "notes": "Used from 11am",
+    "difficulty": "Greetings",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "[audio]",
+      "greeting"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "[audio]",
+      "greeting"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "________、みなさん。",
+        "template_romaji": "________",
+        "answer_kana": "minasan.",
+        "answer_romaji": "こんにちは"
+      },
+      {
+        "template_kana": "____、ゆきさん。",
+        "template_romaji": "____",
+        "answer_kana": "こんにちは",
+        "answer_romaji": "konnichiwa"
+      }
+    ],
+    "example": {
+      "kana": "こんにちは、ゆきさん。",
+      "romaji": "konnichiwa"
+    },
+    "original_mc_question": "yuki san.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-008",
+    "japanese": "こんばんは",
+    "romaji": "konbanwa",
+    "english": "Good evening",
+    "type": "Greeting",
+    "category": "Greetings",
+    "notes": "Used from dusk",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "greetings",
+      "evening",
+      "greeting"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "greetings",
+      "social",
+      "greeting",
+      "polite"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____、みなさん。",
+        "template_romaji": "____",
+        "answer_kana": "こんばんは",
+        "answer_romaji": "konbanwa"
+      }
+    ],
+    "example": {
+      "kana": "こんばんは、みなさん。",
+      "romaji": "konbanwa"
+    },
+    "original_mc_question": "minasan.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-009",
+    "japanese": "さようなら",
+    "romaji": "sayounara",
+    "english": "Goodbye",
+    "type": "Farewell",
+    "category": "[audio]",
+    "notes": "Used when not seeing for a while",
+    "difficulty": "Farewell",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "farewell",
+      "[audio]"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "farewell",
+      "[audio]"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "________、またあした。",
+        "template_romaji": "________",
+        "answer_kana": "mata ashita.",
+        "answer_romaji": "さようなら"
+      },
+      {
+        "template_kana": "____、またあした。",
+        "template_romaji": "____",
+        "answer_kana": "さようなら",
+        "answer_romaji": "sayounara"
+      }
+    ],
+    "example": {
+      "kana": "さようなら、またあした。",
+      "romaji": "sayounara"
+    },
+    "original_mc_question": "mata ashita.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-010",
+    "japanese": "またね",
+    "romaji": "matane",
+    "english": "See you later",
+    "type": "Farewell",
+    "category": "[audio]",
+    "notes": "Informal",
+    "difficulty": "Farewell",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "informal",
+      "farewell",
+      "[audio]",
+      "formal"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "farewell",
+      "[audio]"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "________、けいとさん。",
+        "template_romaji": "________",
+        "answer_kana": "keito san.",
+        "answer_romaji": "またね"
+      },
+      {
+        "template_kana": "____、けいとさん。",
+        "template_romaji": "____",
+        "answer_kana": "またね",
+        "answer_romaji": "matane"
+      }
+    ],
+    "example": {
+      "kana": "またね、けいとさん。",
+      "romaji": "matane"
+    },
+    "original_mc_question": "keito san.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-011",
+    "japanese": "またあした",
+    "romaji": "mata ashita",
+    "english": "See you tomorrow",
+    "type": "Farewell",
+    "category": "Farewell",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "farewell"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "social",
+      "greetings",
+      "farewell"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____、みなさん。",
+        "template_romaji": "____",
+        "answer_kana": "またあした",
+        "answer_romaji": "mata ashita"
+      }
+    ],
+    "example": {
+      "kana": "またあした、みなさん。",
+      "romaji": "mata ashita"
+    },
+    "original_mc_question": "minasan.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-012",
+    "japanese": "おやすみなさい",
+    "romaji": "oyasumi nasai",
+    "english": "Good night",
+    "type": "Farewell",
+    "category": "Easy",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "farewell",
+      "easy"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "farewell",
+      "easy"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____、はは。",
+        "template_romaji": "____",
+        "answer_kana": "おやすみなさい",
+        "answer_romaji": "oyasumi nasai"
+      }
+    ],
+    "example": {
+      "kana": "おやすみなさい、はは。",
+      "romaji": "oyasumi nasai"
+    },
+    "original_mc_question": "haha.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-013",
+    "japanese": "はい",
+    "romaji": "hai",
+    "english": "Yes/OK",
+    "type": "Aizuchi/Response",
+    "category": "Aizuchi/Response",
+    "notes": "Used for active listening",
+    "difficulty": "[audio]",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "aizuchi/response"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "aizuchi/response"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "2",
+        "template_romaji": "________、そうです。",
+        "answer_kana": "________",
+        "answer_romaji": "sou desu."
+      },
+      {
+        "template_kana": "____、そうです。",
+        "template_romaji": "____",
+        "answer_kana": "はい",
+        "answer_romaji": "hai"
+      }
+    ],
+    "example": {
+      "kana": "はい、そうです。",
+      "romaji": "hai"
+    },
+    "original_mc_question": "sou desu.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-014",
+    "japanese": "いいえ",
+    "romaji": "iie",
+    "english": "No",
+    "type": "Aizuchi/Response",
+    "category": "[audio]",
+    "notes": "",
+    "difficulty": "Aizuchi",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "aizuchi/response",
+      "[audio]"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "aizuchi/response",
+      "[audio]"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "________、ちがいます。",
+        "template_romaji": "________",
+        "answer_kana": "chigaimasu.",
+        "answer_romaji": "いいえ"
+      },
+      {
+        "template_kana": "____、ちがいます。",
+        "template_romaji": "____",
+        "answer_kana": "いいえ",
+        "answer_romaji": "iie"
+      }
+    ],
+    "example": {
+      "kana": "いいえ、ちがいます。",
+      "romaji": "iie"
+    },
+    "original_mc_question": "chigaimasu.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-015",
+    "japanese": "どうぞよろしく",
+    "romaji": "douzo yoroshiku",
+    "english": "Pleased to meet you",
+    "type": "Polite Expression",
+    "category": "Easy",
+    "notes": "Used after self-introduction",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "polite expression",
+      "polite_request",
+      "easy"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "polite expression",
+      "easy"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____、おねがいします。",
+        "template_romaji": "____",
+        "answer_kana": "どうぞよろしく",
+        "answer_romaji": "douzo yoroshiku"
+      }
+    ],
+    "example": {
+      "kana": "どうぞよろしく、おねがいします。",
+      "romaji": "douzo yoroshiku"
+    },
+    "original_mc_question": "onegaishimasu.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-016",
+    "japanese": "はじめまして",
+    "romaji": "hajimemashite",
+    "english": "How do you do?",
+    "type": "Polite Expression",
+    "category": "Easy",
+    "notes": "Used at first meeting",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "polite expression",
+      "easy"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "polite expression",
+      "easy"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____、わたしはエマです。",
+        "template_romaji": "____",
+        "answer_kana": "はじめまして",
+        "answer_romaji": "hajimemashite"
+      }
+    ],
+    "example": {
+      "kana": "はじめまして、わたしはエマです。",
+      "romaji": "hajimemashite"
+    },
+    "original_mc_question": "watashi wa ema desu.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-017",
+    "japanese": "おなまえは",
+    "romaji": "onamae wa",
+    "english": "What is your name?",
+    "type": "Question",
+    "category": "[audio]",
+    "notes": "Polite form",
+    "difficulty": "Question",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "[audio]",
+      "question"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "[audio]",
+      "question"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "1",
+        "template_romaji": "________はなんですか。",
+        "answer_kana": "________ wa nan desu ka.",
+        "answer_romaji": "おなまえ"
+      },
+      {
+        "template_kana": "____、なんですか。",
+        "template_romaji": "____",
+        "answer_kana": "おなまえは",
+        "answer_romaji": "onamae wa"
+      }
+    ],
+    "example": {
+      "kana": "おなまえは、なんですか。",
+      "romaji": "onamae wa"
+    },
+    "original_mc_question": "nan desu ka.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-018",
+    "japanese": "なまえはなんですか",
+    "romaji": "namae wa nan desu ka",
+    "english": "What is your name?",
+    "type": "Question",
+    "category": "",
+    "notes": "Less formal",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "formal",
+      "question"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "question"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____。",
+        "template_romaji": "____.",
+        "answer_kana": "なまえはなんですか",
+        "answer_romaji": "namae wa nan desu ka"
+      }
+    ],
+    "example": {
+      "kana": "なまえはなんですか。",
+      "romaji": "namae wa nan desu ka."
+    }
+  },
+  {
+    "id": "U1-019",
+    "japanese": "わたしはエマです",
+    "romaji": "watashi wa ema desu",
+    "english": "I am Emma.",
+    "type": "Self-introduction",
+    "category": "Easy",
+    "notes": "For girls/anyone",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "easy",
+      "self-introduction"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "easy",
+      "self-introduction"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "watashi wa ________ desu.",
+        "template_romaji": "エマ",
+        "answer_kana": "ema",
+        "answer_romaji": "Self-introduction"
+      },
+      {
+        "template_kana": "____。どうぞよろしく。",
+        "template_romaji": "____. douzo yoroshiku.",
+        "answer_kana": "わたしはエマです",
+        "answer_romaji": "watashi wa ema desu"
+      }
+    ],
+    "example": {
+      "kana": "わたしはエマです。どうぞよろしく。",
+      "romaji": "watashi wa ema desu. douzo yoroshiku."
+    }
+  },
+  {
+    "id": "U1-020",
+    "japanese": "ぼくはベンです",
+    "romaji": "boku wa ben desu",
+    "english": "I am Ben.",
+    "type": "Self-introduction",
+    "category": "Easy",
+    "notes": "For boys",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "easy",
+      "self-introduction"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "easy",
+      "self-introduction"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "boku wa ________ desu.",
+        "template_romaji": "ベン",
+        "answer_kana": "ben",
+        "answer_romaji": "Self-introduction"
+      },
+      {
+        "template_kana": "____。どうぞよろしく。",
+        "template_romaji": "____. douzo yoroshiku.",
+        "answer_kana": "ぼくはベンです",
+        "answer_romaji": "boku wa ben desu"
+      }
+    ],
+    "example": {
+      "kana": "ぼくはベンです。どうぞよろしく。",
+      "romaji": "boku wa ben desu. douzo yoroshiku."
+    }
+  },
+  {
+    "id": "U1-021",
+    "japanese": "さん",
+    "romaji": "san",
+    "english": "Mr./Ms.",
+    "type": "Honorific",
+    "category": "",
+    "notes": "Safe, general honorific",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "honorific"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "honorific"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "たなか____",
+        "template_romaji": "tanaka ____",
+        "answer_kana": "さん",
+        "answer_romaji": "san"
+      }
+    ],
+    "example": {
+      "kana": "たなかさん",
+      "romaji": "tanaka san"
+    }
+  },
+  {
+    "id": "U1-022",
+    "japanese": "くん",
+    "romaji": "kun",
+    "english": "Mr. (for boys/men)",
+    "type": "Honorific",
+    "category": "",
+    "notes": "For boys/men your age or younger",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "honorific"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "honorific"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "けんいち____",
+        "template_romaji": "kenichi ____",
+        "answer_kana": "くん",
+        "answer_romaji": "kun"
+      }
+    ],
+    "example": {
+      "kana": "けんいちくん",
+      "romaji": "kenichi kun"
+    }
+  },
+  {
+    "id": "U1-023",
+    "japanese": "ちゃん",
+    "romaji": "chan",
+    "english": "(for young children)",
+    "type": "Honorific",
+    "category": "",
+    "notes": "For toddlers, cutesy use",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "honorific"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "honorific"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "みい____",
+        "template_romaji": "mii ____",
+        "answer_kana": "ちゃん",
+        "answer_romaji": "chan"
+      }
+    ],
+    "example": {
+      "kana": "みいちゃん",
+      "romaji": "mii chan"
+    }
+  },
+  {
+    "id": "U1-024",
+    "japanese": "せんせい",
+    "romaji": "sensei",
+    "english": "Teacher/Doctor",
+    "type": "Honorific",
+    "category": "",
+    "notes": "For teachers, doctors",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "honorific",
+      "classroom"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "honorific"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "なかむら____",
+        "template_romaji": "nakamura ____",
+        "answer_kana": "せんせい",
+        "answer_romaji": "sensei"
+      }
+    ],
+    "example": {
+      "kana": "なかむらせんせい",
+      "romaji": "nakamura sensei"
+    }
+  },
+  {
+    "id": "U1-025",
+    "japanese": "たってください",
+    "romaji": "tatte kudasai",
+    "english": "Please stand up",
+    "type": "Instruction",
+    "category": "Instruction",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "polite_request",
+      "instruction"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "polite_request",
+      "instruction",
+      "classroom"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "たって__________。",
+        "template_romaji": "tatte ________.",
+        "answer_kana": "ください",
+        "answer_romaji": "kudasai"
+      },
+      {
+        "template_kana": "____、みなさん。",
+        "template_romaji": "____",
+        "answer_kana": "たってください",
+        "answer_romaji": "tatte kudasai"
+      }
+    ],
+    "example": {
+      "kana": "たってください、みなさん。",
+      "romaji": "tatte kudasai"
+    },
+    "original_mc_question": "minasan.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-026",
+    "japanese": "すわってください",
+    "romaji": "suwatte kudasai",
+    "english": "Please sit down",
+    "type": "Instruction",
+    "category": "Instruction",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "polite_request",
+      "instruction"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "polite_request",
+      "instruction",
+      "classroom"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "すわって__________。",
+        "template_romaji": "suwatte ________.",
+        "answer_kana": "ください",
+        "answer_romaji": "kudasai"
+      },
+      {
+        "template_kana": "____、みなさん。",
+        "template_romaji": "____",
+        "answer_kana": "すわってください",
+        "answer_romaji": "suwatte kudasai"
+      }
+    ],
+    "example": {
+      "kana": "すわってください、みなさん。",
+      "romaji": "suwatte kudasai"
+    },
+    "original_mc_question": "minasan.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-027",
+    "japanese": "きいてください",
+    "romaji": "kiite kudasai",
+    "english": "Please listen",
+    "type": "Instruction",
+    "category": "Instruction",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "polite_request",
+      "instruction"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "polite_request",
+      "instruction",
+      "classroom"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "きいて__________。",
+        "template_romaji": "kiite ________.",
+        "answer_kana": "ください",
+        "answer_romaji": "kudasai"
+      },
+      {
+        "template_kana": "____、はしじょーのくん。",
+        "template_romaji": "____",
+        "answer_kana": "きいてください",
+        "answer_romaji": "kiite kudasai"
+      }
+    ],
+    "example": {
+      "kana": "きいてください、はしじょーのくん。",
+      "romaji": "kiite kudasai"
+    },
+    "original_mc_question": "hashijoono kun.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-028",
+    "japanese": "みてください",
+    "romaji": "mite kudasai",
+    "english": "Please look",
+    "type": "Instruction",
+    "category": "Instruction",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "polite_request",
+      "instruction"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "polite_request",
+      "instruction",
+      "classroom"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "みて__________。",
+        "template_romaji": "mite ________.",
+        "answer_kana": "ください",
+        "answer_romaji": "kudasai"
+      },
+      {
+        "template_kana": "____、けいとさん。",
+        "template_romaji": "____",
+        "answer_kana": "みてください",
+        "answer_romaji": "mite kudasai"
+      }
+    ],
+    "example": {
+      "kana": "みてください、けいとさん。",
+      "romaji": "mite kudasai"
+    },
+    "original_mc_question": "keito san.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-029",
+    "japanese": "みせてください",
+    "romaji": "misete kudasai",
+    "english": "Please show me",
+    "type": "Instruction",
+    "category": "Instruction",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "polite_request",
+      "instruction"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "polite_request",
+      "instruction",
+      "classroom"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "みせて__________。",
+        "template_romaji": "misete ________.",
+        "answer_kana": "ください",
+        "answer_romaji": "kudasai"
+      },
+      {
+        "template_kana": "____、ほんを。",
+        "template_romaji": "____",
+        "answer_kana": "みせてください",
+        "answer_romaji": "misete kudasai"
+      }
+    ],
+    "example": {
+      "kana": "みせてください、ほんを。",
+      "romaji": "misete kudasai"
+    },
+    "original_mc_question": "hon o.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-030",
+    "japanese": "かいてください",
+    "romaji": "kaite kudasai",
+    "english": "Please write",
+    "type": "Instruction",
+    "category": "Instruction",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "polite_request",
+      "instruction"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "polite_request",
+      "instruction",
+      "classroom"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "かいて__________。",
+        "template_romaji": "kaite ________.",
+        "answer_kana": "ください",
+        "answer_romaji": "kudasai"
+      },
+      {
+        "template_kana": "____、じを。",
+        "template_romaji": "____",
+        "answer_kana": "かいてください",
+        "answer_romaji": "kaite kudasai"
+      }
+    ],
+    "example": {
+      "kana": "かいてください、じを。",
+      "romaji": "kaite kudasai"
+    },
+    "original_mc_question": "ji o.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-031",
+    "japanese": "よんでください",
+    "romaji": "yonde kudasai",
+    "english": "Please read",
+    "type": "Instruction",
+    "category": "Instruction",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "polite_request",
+      "instruction"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "polite_request",
+      "instruction",
+      "classroom"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "よんで__________。",
+        "template_romaji": "yonde ________.",
+        "answer_kana": "ください",
+        "answer_romaji": "kudasai"
+      },
+      {
+        "template_kana": "____、ぺーじを。",
+        "template_romaji": "____",
+        "answer_kana": "よんでください",
+        "answer_romaji": "yonde kudasai"
+      }
+    ],
+    "example": {
+      "kana": "よんでください、ぺーじを。",
+      "romaji": "yonde kudasai"
+    },
+    "original_mc_question": "peeji o.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-032",
+    "japanese": "いってください",
+    "romaji": "itte kudasai",
+    "english": "Please say it",
+    "type": "Instruction",
+    "category": "Easy",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "polite_request",
+      "instruction",
+      "easy"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "instruction",
+      "easy"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____、もういちど。",
+        "template_romaji": "____",
+        "answer_kana": "いってください",
+        "answer_romaji": "itte kudasai"
+      }
+    ],
+    "example": {
+      "kana": "いってください、もういちど。",
+      "romaji": "itte kudasai"
+    },
+    "original_mc_question": "mou ichido.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-033",
+    "japanese": "しずかにして",
+    "romaji": "shizuka ni shite",
+    "english": "Please be quiet",
+    "type": "Instruction",
+    "category": "Instruction",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "polite_request",
+      "instruction"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "polite_request",
+      "instruction",
+      "classroom"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "しずかに__________。",
+        "template_romaji": "shizuka ni ________.",
+        "answer_kana": "して",
+        "answer_romaji": "shite"
+      },
+      {
+        "template_kana": "____、みなさん。",
+        "template_romaji": "____",
+        "answer_kana": "しずかにして",
+        "answer_romaji": "shizuka ni shite"
+      }
+    ],
+    "example": {
+      "kana": "しずかにして、みなさん。",
+      "romaji": "shizuka ni shite"
+    },
+    "original_mc_question": "minasan.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-034",
+    "japanese": "まどをあけて",
+    "romaji": "mado o akete",
+    "english": "Open the window",
+    "type": "Instruction",
+    "category": "Easy",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "instruction",
+      "easy"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "instruction",
+      "easy"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "mado o ________ kudasai.",
+        "template_romaji": "あけて",
+        "answer_kana": "akete",
+        "answer_romaji": "Instruction"
+      },
+      {
+        "template_kana": "____ください。",
+        "template_romaji": "____ kudasai.",
+        "answer_kana": "まどをあけて",
+        "answer_romaji": "mado o akete"
+      }
+    ],
+    "example": {
+      "kana": "まどをあけてください。",
+      "romaji": "mado o akete kudasai."
+    }
+  },
+  {
+    "id": "U1-035",
+    "japanese": "まどをしめて",
+    "romaji": "mado o shimete",
+    "english": "Shut the window",
+    "type": "Instruction",
+    "category": "Easy",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "instruction",
+      "easy"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "instruction",
+      "easy"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "mado o ________ kudasai.",
+        "template_romaji": "しめて",
+        "answer_kana": "shimete",
+        "answer_romaji": "Instruction"
+      },
+      {
+        "template_kana": "____ください。",
+        "template_romaji": "____ kudasai.",
+        "answer_kana": "まどをしめて",
+        "answer_romaji": "mado o shimete"
+      }
+    ],
+    "example": {
+      "kana": "まどをしめてください。",
+      "romaji": "mado o shimete kudasai."
+    }
+  },
+  {
+    "id": "U1-036",
+    "japanese": "どあをあけて",
+    "romaji": "doa o akete",
+    "english": "Open the door",
+    "type": "Instruction",
+    "category": "Easy",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "instruction",
+      "easy"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "instruction",
+      "easy"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "doa o ________ kudasai.",
+        "template_romaji": "あけて",
+        "answer_kana": "akete",
+        "answer_romaji": "Instruction"
+      },
+      {
+        "template_kana": "____ください。",
+        "template_romaji": "____ kudasai.",
+        "answer_kana": "どあをあけて",
+        "answer_romaji": "doa o akete"
+      }
+    ],
+    "example": {
+      "kana": "どあをあけてください。",
+      "romaji": "doa o akete kudasai."
+    }
+  },
+  {
+    "id": "U1-037",
+    "japanese": "どあをしめて",
+    "romaji": "doa o shimete",
+    "english": "Shut the door",
+    "type": "Instruction",
+    "category": "Easy",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "instruction",
+      "easy"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "instruction",
+      "easy"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "doa o ________ kudasai.",
+        "template_romaji": "しめて",
+        "answer_kana": "shimete",
+        "answer_romaji": "Instruction"
+      },
+      {
+        "template_kana": "____ください。",
+        "template_romaji": "____ kudasai.",
+        "answer_kana": "どあをしめて",
+        "answer_romaji": "doa o shimete"
+      }
+    ],
+    "example": {
+      "kana": "どあをしめてください。",
+      "romaji": "doa o shimete kudasai."
+    }
+  },
+  {
+    "id": "U1-038",
+    "japanese": "ほんをだして",
+    "romaji": "hon o dashite",
+    "english": "Take out your book",
+    "type": "Instruction",
+    "category": "Easy",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "instruction",
+      "easy"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "instruction",
+      "easy"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "hon o ________ kudasai.",
+        "template_romaji": "だして",
+        "answer_kana": "dashite",
+        "answer_romaji": "Instruction"
+      },
+      {
+        "template_kana": "____ください。",
+        "template_romaji": "____ kudasai.",
+        "answer_kana": "ほんをだして",
+        "answer_romaji": "hon o dashite"
+      }
+    ],
+    "example": {
+      "kana": "ほんをだしてください。",
+      "romaji": "hon o dashite kudasai."
+    }
+  },
+  {
+    "id": "U1-039",
+    "japanese": "ぺんをかして",
+    "romaji": "pen o kashite",
+    "english": "Lend me a pen",
+    "type": "Instruction",
+    "category": "Instruction",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "instruction"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "polite_request",
+      "instruction",
+      "classroom"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "ぺんを__________ください。",
+        "template_romaji": "pen o ________ kudasai.",
+        "answer_kana": "かして",
+        "answer_romaji": "kashite"
+      },
+      {
+        "template_kana": "____ください。",
+        "template_romaji": "____ kudasai.",
+        "answer_kana": "ぺんをかして",
+        "answer_romaji": "pen o kashite"
+      }
+    ],
+    "example": {
+      "kana": "ぺんをかしてください。",
+      "romaji": "pen o kashite kudasai."
+    },
+    "original_mc_question": "What does ぺんをかして mean?",
+    "original_mc_correct_option": 2
+  },
+  {
+    "id": "U1-040",
+    "japanese": "まって",
+    "romaji": "matte",
+    "english": "Wait",
+    "type": "Instruction",
+    "category": "",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "instruction"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "instruction"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "ちょっと____ください。",
+        "template_romaji": "chotto ____ kudasai.",
+        "answer_kana": "まって",
+        "answer_romaji": "matte"
+      }
+    ],
+    "example": {
+      "kana": "ちょっとまってください。",
+      "romaji": "chotto matte kudasai."
+    }
+  },
+  {
+    "id": "U1-041",
+    "japanese": "ちょっとまって",
+    "romaji": "chotto matte",
+    "english": "Wait a moment",
+    "type": "Instruction",
+    "category": "Easy",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "instruction",
+      "easy"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "instruction",
+      "easy"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "chotto ________ kudasai.",
+        "template_romaji": "まって",
+        "answer_kana": "matte",
+        "answer_romaji": "Instruction"
+      },
+      {
+        "template_kana": "____ください。",
+        "template_romaji": "____ kudasai.",
+        "answer_kana": "ちょっとまって",
+        "answer_romaji": "chotto matte"
+      }
+    ],
+    "example": {
+      "kana": "ちょっとまってください。",
+      "romaji": "chotto matte kudasai."
+    }
+  },
+  {
+    "id": "U1-042",
+    "japanese": "すごい！",
+    "romaji": "sugoi!",
+    "english": "Great!",
+    "type": "Aizuchi/Reaction",
+    "category": "",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "aizuchi/reaction"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "aizuchi/reaction"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____できました！",
+        "template_romaji": "____ dekimashita!",
+        "answer_kana": "すごい！",
+        "answer_romaji": "sugoi!"
+      }
+    ],
+    "example": {
+      "kana": "すごい！できました！",
+      "romaji": "sugoi! dekimashita!"
+    }
+  },
+  {
+    "id": "U1-043",
+    "japanese": "ああ！",
+    "romaji": "aa!",
+    "english": "I see!",
+    "type": "Aizuchi/Reaction",
+    "category": "Easy",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "easy",
+      "aizuchi/reaction"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "easy",
+      "aizuchi/reaction"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____わかりました。",
+        "template_romaji": "____ wakarimashita.",
+        "answer_kana": "ああ！",
+        "answer_romaji": "aa!"
+      }
+    ],
+    "example": {
+      "kana": "ああ！わかりました。",
+      "romaji": "aa! wakarimashita."
+    },
+    "original_mc_question": "Which is an aizuchi expression?",
+    "original_mc_correct_option": 1
+  },
+  {
+    "id": "U1-044",
+    "japanese": "ええと",
+    "romaji": "eeto",
+    "english": "Let me see...",
+    "type": "Aizuchi/Reaction",
+    "category": "",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "aizuchi/reaction"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "aizuchi/reaction"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____、どこだっけ？",
+        "template_romaji": "____",
+        "answer_kana": "ええと",
+        "answer_romaji": "eeto"
+      }
+    ],
+    "example": {
+      "kana": "ええと、どこだっけ？",
+      "romaji": "eeto"
+    },
+    "original_mc_question": "doko dakke.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-045",
+    "japanese": "あのう",
+    "romaji": "anou",
+    "english": "Um...",
+    "type": "Aizuchi/Reaction",
+    "category": "Easy",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "easy",
+      "aizuchi/reaction"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "easy",
+      "aizuchi/reaction"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____、しつもんがあります。",
+        "template_romaji": "____",
+        "answer_kana": "あのう",
+        "answer_romaji": "anou"
+      }
+    ],
+    "example": {
+      "kana": "あのう、しつもんがあります。",
+      "romaji": "anou"
+    },
+    "original_mc_question": "shitsumon ga arimasu.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-046",
+    "japanese": "はい、そうです。",
+    "romaji": "hai",
+    "english": "sou desu.",
+    "type": "Yes",
+    "category": "[audio]",
+    "notes": "that's right",
+    "difficulty": "Aizuchi",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "yes",
+      "[audio]"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": false,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "yes",
+      "[audio]"
+    ],
+    "fitb_templates": [],
+    "example": {
+      "kana": "Aizuchi/Confirmation",
+      "romaji": ""
+    },
+    "original_mc_question": "はい、そうです。",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-047",
+    "japanese": "みなさん",
+    "romaji": "minasan",
+    "english": "Everyone",
+    "type": "Noun",
+    "category": "Easy",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "easy",
+      "noun"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "easy",
+      "noun"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____、こんにちは。",
+        "template_romaji": "____",
+        "answer_kana": "みなさん",
+        "answer_romaji": "minasan"
+      }
+    ],
+    "example": {
+      "kana": "みなさん、こんにちは。",
+      "romaji": "minasan"
+    },
+    "original_mc_question": "konnichiwa.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-048",
+    "japanese": "どうぞ",
+    "romaji": "douzo",
+    "english": "Here you are/Go ahead",
+    "type": "Polite Expression",
+    "category": "Easy",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "polite expression",
+      "easy"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "polite expression",
+      "easy"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____、おはいりください。",
+        "template_romaji": "____",
+        "answer_kana": "どうぞ",
+        "answer_romaji": "douzo"
+      }
+    ],
+    "example": {
+      "kana": "どうぞ、おはいりください。",
+      "romaji": "douzo"
+    },
+    "original_mc_question": "ohairi kudasai.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-049",
+    "japanese": "ありがとうございます",
+    "romaji": "arigatou gozaimasu",
+    "english": "Thank you (formal)",
+    "type": "Polite Expression",
+    "category": "Easy",
+    "notes": "Formal",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "polite expression",
+      "easy",
+      "formal",
+      "gratitude"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "polite expression",
+      "easy"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____、みなさん。",
+        "template_romaji": "____",
+        "answer_kana": "ありがとうございます",
+        "answer_romaji": "arigatou gozaimasu"
+      }
+    ],
+    "example": {
+      "kana": "ありがとうございます、みなさん。",
+      "romaji": "arigatou gozaimasu"
+    },
+    "original_mc_question": "minasan.",
+    "original_mc_correct_option": null
+  },
+  {
+    "id": "U1-050",
+    "japanese": "いえ",
+    "romaji": "ie",
+    "english": "House",
+    "type": "Noun",
+    "category": "Easy",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "easy",
+      "noun"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "easy",
+      "noun"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "watashi no ________ wa ookii desu.",
+        "template_romaji": "いえ",
+        "answer_kana": "ie",
+        "answer_romaji": "Noun"
+      },
+      {
+        "template_kana": "わたしの____はおおきいです。",
+        "template_romaji": "watashi no ____ wa ookii desu.",
+        "answer_kana": "いえ",
+        "answer_romaji": "ie"
+      }
+    ],
+    "example": {
+      "kana": "わたしのいえはおおきいです。",
+      "romaji": "watashi no ie wa ookii desu."
+    }
+  },
+  {
+    "id": "U1-051",
+    "japanese": "すし",
+    "romaji": "sushi",
+    "english": "Sushi",
+    "type": "Food",
+    "category": "Food",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "food"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "food",
+      "vocabulary",
+      "cultural knowledge"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "すしが__________です。",
+        "template_romaji": "sushi ga ________ desu.",
+        "answer_kana": "すき",
+        "answer_romaji": "suki"
+      },
+      {
+        "template_kana": "____がすきです。",
+        "template_romaji": "____ ga suki desu.",
+        "answer_kana": "すし",
+        "answer_romaji": "sushi"
+      }
+    ],
+    "example": {
+      "kana": "すしがすきです。",
+      "romaji": "sushi ga suki desu."
+    },
+    "original_mc_question": "What is a traditional Japanese food?",
+    "original_mc_correct_option": 2
+  },
+  {
+    "id": "U1-052",
+    "japanese": "てんぷら",
+    "romaji": "tenpura",
+    "english": "Tempura",
+    "type": "Food",
+    "category": "Easy",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "food",
+      "easy"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "food",
+      "easy"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "tenpura o ________.",
+        "template_romaji": "たべます",
+        "answer_kana": "tabemasu",
+        "answer_romaji": "Food"
+      },
+      {
+        "template_kana": "____をたべます。",
+        "template_romaji": "____ o tabemasu.",
+        "answer_kana": "てんぷら",
+        "answer_romaji": "tenpura"
+      }
+    ],
+    "example": {
+      "kana": "てんぷらをたべます。",
+      "romaji": "tenpura o tabemasu."
+    }
+  },
+  {
+    "id": "U1-053",
+    "japanese": "らーめん",
+    "romaji": "raamen",
+    "english": "Ramen",
+    "type": "Food",
+    "category": "Easy",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "food",
+      "easy"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "food",
+      "easy"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "raamen ga ________ desu.",
+        "template_romaji": "すき",
+        "answer_kana": "suki",
+        "answer_romaji": "Food"
+      },
+      {
+        "template_kana": "____がすきです。",
+        "template_romaji": "____ ga suki desu.",
+        "answer_kana": "らーめん",
+        "answer_romaji": "raamen"
+      }
+    ],
+    "example": {
+      "kana": "らーめんがすきです。",
+      "romaji": "raamen ga suki desu."
+    }
+  },
+  {
+    "id": "U1-054",
+    "japanese": "ピザ",
+    "romaji": "piza",
+    "english": "Pizza",
+    "type": "Food",
+    "category": "",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "food"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "food"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____をたべます。",
+        "template_romaji": "____ o tabemasu.",
+        "answer_kana": "ピザ",
+        "answer_romaji": "piza"
+      }
+    ],
+    "example": {
+      "kana": "ピザをたべます。",
+      "romaji": "piza o tabemasu."
+    }
+  },
+  {
+    "id": "U1-055",
+    "japanese": "ハンバーガー",
+    "romaji": "hanbaagaa",
+    "english": "Hamburger",
+    "type": "Food",
+    "category": "",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "food"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "food"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____がすきです。",
+        "template_romaji": "____ ga suki desu.",
+        "answer_kana": "ハンバーガー",
+        "answer_romaji": "hanbaagaa"
+      }
+    ],
+    "example": {
+      "kana": "ハンバーガーがすきです。",
+      "romaji": "hanbaagaa ga suki desu."
+    }
+  },
+  {
+    "id": "U1-056",
+    "japanese": "コーヒー",
+    "romaji": "koohii",
+    "english": "Coffee",
+    "type": "Food",
+    "category": "",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "food"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "food"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____をのみます。",
+        "template_romaji": "____ o nomimasu.",
+        "answer_kana": "コーヒー",
+        "answer_romaji": "koohii"
+      }
+    ],
+    "example": {
+      "kana": "コーヒーをのみます。",
+      "romaji": "koohii o nomimasu."
+    }
+  },
+  {
+    "id": "U1-057",
+    "japanese": "ケーキ",
+    "romaji": "keeki",
+    "english": "Cake",
+    "type": "Food",
+    "category": "",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "food"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "food"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____がすきです。",
+        "template_romaji": "____ ga suki desu.",
+        "answer_kana": "ケーキ",
+        "answer_romaji": "keeki"
+      }
+    ],
+    "example": {
+      "kana": "ケーキがすきです。",
+      "romaji": "keeki ga suki desu."
+    }
+  },
+  {
+    "id": "U1-058",
+    "japanese": "テレビ",
+    "romaji": "terebi",
+    "english": "TV",
+    "type": "Noun",
+    "category": "",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "noun"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____をみます。",
+        "template_romaji": "____ o mimasu.",
+        "answer_kana": "テレビ",
+        "answer_romaji": "terebi"
+      }
+    ],
+    "example": {
+      "kana": "テレビをみます。",
+      "romaji": "terebi o mimasu."
+    }
+  },
+  {
+    "id": "U1-059",
+    "japanese": "パソコン",
+    "romaji": "pasokon",
+    "english": "Computer",
+    "type": "Noun",
+    "category": "",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "dragdrop",
+      "audio"
+    ],
+    "tags": [
+      "noun"
+    ],
+    "mc_suitable": true,
+    "fitb_suitable": true,
+    "dragdrop_suitable": true,
+    "audio_suitable": true,
+    "distractor_for": [
+      "noun"
+    ],
+    "fitb_templates": [
+      {
+        "template_kana": "____をつかいます。",
+        "template_romaji": "____ o tsukaimasu.",
+        "answer_kana": "パソコン",
+        "answer_romaji": "pasokon"
+      }
+    ],
+    "example": {
+      "kana": "パソコンをつかいます。",
+      "romaji": "pasokon o tsukaimasu."
+    }
+  },
+  {
+    "id": "U1-060",
+    "japanese": "",
+    "romaji": "",
+    "english": "",
+    "type": "",
+    "category": "",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "mc"
+    ],
+    "tags": [],
+    "mc_suitable": true,
+    "fitb_suitable": false,
+    "dragdrop_suitable": false,
+    "audio_suitable": false,
+    "distractor_for": [],
+    "fitb_templates": [],
+    "example": {
+      "kana": "",
+      "romaji": ""
+    },
+    "original_mc_question": "What is the capital of Japan?",
+    "original_mc_correct_option": 2
+  },
+  {
+    "id": "U1-061",
+    "japanese": "",
+    "romaji": "",
+    "english": "",
+    "type": "",
+    "category": "",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "mc"
+    ],
+    "tags": [],
+    "mc_suitable": true,
+    "fitb_suitable": false,
+    "dragdrop_suitable": false,
+    "audio_suitable": false,
+    "distractor_for": [],
+    "fitb_templates": [],
+    "example": {
+      "kana": "",
+      "romaji": ""
+    },
+    "original_mc_question": "What is Japan's currency?",
+    "original_mc_correct_option": 1
+  },
+  {
+    "id": "U1-062",
+    "japanese": "",
+    "romaji": "",
+    "english": "",
+    "type": "",
+    "category": "",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "mc"
+    ],
+    "tags": [],
+    "mc_suitable": true,
+    "fitb_suitable": false,
+    "dragdrop_suitable": false,
+    "audio_suitable": false,
+    "distractor_for": [],
+    "fitb_templates": [],
+    "example": {
+      "kana": "",
+      "romaji": ""
+    },
+    "original_mc_question": "What is the traditional dress of Japan?",
+    "original_mc_correct_option": 2
+  },
+  {
+    "id": "U1-063",
+    "japanese": "",
+    "romaji": "",
+    "english": "",
+    "type": "",
+    "category": "",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "mc"
+    ],
+    "tags": [],
+    "mc_suitable": true,
+    "fitb_suitable": false,
+    "dragdrop_suitable": false,
+    "audio_suitable": false,
+    "distractor_for": [],
+    "fitb_templates": [],
+    "example": {
+      "kana": "",
+      "romaji": ""
+    },
+    "original_mc_question": "What do Japanese people do when entering a house?",
+    "original_mc_correct_option": 2
+  },
+  {
+    "id": "U1-064",
+    "japanese": "",
+    "romaji": "",
+    "english": "",
+    "type": "",
+    "category": "",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "mc"
+    ],
+    "tags": [],
+    "mc_suitable": true,
+    "fitb_suitable": false,
+    "dragdrop_suitable": false,
+    "audio_suitable": false,
+    "distractor_for": [],
+    "fitb_templates": [],
+    "example": {
+      "kana": "",
+      "romaji": ""
+    },
+    "original_mc_question": "Which is a Japanese martial art?",
+    "original_mc_correct_option": 1
+  },
+  {
+    "id": "U1-065",
+    "japanese": "",
+    "romaji": "",
+    "english": "",
+    "type": "",
+    "category": "",
+    "notes": "",
+    "difficulty": "Easy",
+    "game_types": [
+      "flashcard",
+      "mc"
+    ],
+    "tags": [],
+    "mc_suitable": true,
+    "fitb_suitable": false,
+    "dragdrop_suitable": false,
+    "audio_suitable": false,
+    "distractor_for": [],
+    "fitb_templates": [],
+    "example": {
+      "kana": "",
+      "romaji": ""
+    },
+    "original_mc_question": "What percentage of Japan is mountainous?",
+    "original_mc_correct_option": 3
+  }
+]
